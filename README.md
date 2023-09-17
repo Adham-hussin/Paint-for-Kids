@@ -65,10 +65,3 @@ The `Sound` action allows the user to enable or disable sound effects within the
 
 The `StartRec`, `StopRec`, and `PlayRec` actions are responsible for recording the user's actions on the canvas, stopping the recording, and playing back the recorded actions, respectively. These actions utilize a recording mechanism to store the sequence of actions performed by the user.
 
-## Contributing
-
-Contributions to the Kids Paint Desktop App are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
